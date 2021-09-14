@@ -1,0 +1,9 @@
+instal all libraries bellow:
+https://github.com/ayushsharma82/AsyncElegantOTA
+https://github.com/me-no-dev/AsyncTCP
+https://github.com/me-no-dev/ESPAsyncWebServer
+
+
+instal to ~/Documents/Arduino/library
+
+source script: https://randomnerdtutorials.com/esp32-ota-over-the-air-arduino/
